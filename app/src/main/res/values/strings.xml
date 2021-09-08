@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">DashboardDesign</string>
+
+    <string name="more">more</string>
+
+    <string name="thin_face_needle">Thin Face Needle</string>
+    <string name="south_india">South India</string>
+    <string name="_10am_to_6pm">10am to 6pm</string>
+    <string name="north_india">North India</string>
+    <string name="light_to_light_room">Light to Light Room</string>
+
+    <string name="this_is_a_test_tube_for_testing">This is a test tube for testing</string>
+    <string name="mera_bharat_mahan">Mera Bharat Mahan</string>
+
+    <string name="doctor_doctor_happy_doctor">Doctor Doctor happy Doctor</string>
+    <string name="mumbai_mumbai_meri_jaan">Mumbai Mumbai Meri Jaan</string>
+
+    <string name="clients_satisfied_reviews_android_textsize">Clients Satisfied Reviews android:textSize=</string>
+    <string name="client_satisfaction_survey">Client Satisfaction Survey</string>
+    <string name="review_done_by_doctors">Review Done by Doctors</string>
+    <string name="likes">Likes</string>
+    <string name="sample_dashboard">Sample Dashboard</string>
+    <string name="top_panel">Top Panel</string>
+    <string name="followers">Followers</string>
+    <string name="_750">750</string>
+    <string name="best_buddies">Best Buddies</string>
+    <string name="_250">250</string>
+    <string name="_1050">1050</string>
+    <string name="_220">₹220</string>
+    <string name="_110">₹110</string>
+    <string name="_375">₹375</string>
+    <string name="_800">₹800</string>
+    <string name="_175">₹175</string>
+</resources>
